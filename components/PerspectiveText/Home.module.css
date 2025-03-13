@@ -1,0 +1,106 @@
+/* Base styles */
+.container {
+  font-family: "Aeonik";
+  font-weight: 700;
+  height: 70vh;
+  width: 50vw;
+  display: flex;
+  justify-content: flex-start; /* Align items to the left */
+  align-items: center; /* Vertically center */
+}
+
+/* Body styling */
+.body {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 25px;
+}
+
+/* Text container */
+.textContainer {
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.4s ease-in-out;
+  transform-style: preserve-3d;
+  margin: 10px;
+}
+
+/* Text default state */
+.textContainer p {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0;
+  transition: all 0.4s ease-in-out;
+  color: #d8d8d8;
+  line-height: 45px;
+}
+
+/* Hidden secondary text */
+.textContainer .secondary {
+  transform: rotateX(-90deg) translateY(3.5vw);
+  transform-origin: bottom center;
+  position: absolute;
+  top: 0;
+  color: black;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+
+/* Hover effects */
+.textContainer:hover {
+  transform: rotateX(90deg);
+}
+
+.textContainer:hover .secondary {
+  opacity: 1;
+}
+
+.textContainer:hover .primary {
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+/* Responsive Font Sizes & Adjustments */
+
+/* Small screens (mobile devices) */
+@media (max-width: 640px) {
+  .container {
+    height: 40vh;
+    width: 50vw;
+  }
+  .textContainer p {
+    font-size: 35px; /* Smaller font size for mobiles */
+    line-height: 30px;
+  }
+
+  .body {
+    margin-top: 35px;
+  }
+}
+
+/* Medium screens (tablets) */
+@media (min-width: 641px) and (max-width: 1023px) {
+  .textContainer p {
+    font-size: 50px; /* Optimized for tablets */
+    line-height: 55px;
+  }
+
+  .body {
+    margin-top: 30px;
+  }
+}
+
+/* Large screens (laptops and desktops) */
+@media (min-width: 1024px) {
+  .textContainer p {
+    font-size: 75px; /* Large but not overwhelming */
+    line-height: 80px;
+  }
+
+  .body {
+    margin-top: 90px;
+    margin-left: 60px;
+  }
+}

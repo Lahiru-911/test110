@@ -1,0 +1,363 @@
+{
+  "blogDetails": [
+    null,
+    {
+      "content": "As humanity continues its relentless pursuit of innovation, the evolution of wireless communication technologies has been a driving force behind our interconnected world. Just as we are getting comfortable with 5G, the horizon unveils a new era of connectivity – 6G. Often dubbed as “The Ethereal World of Connectivity,” 6G promises to transcend the boundaries of human imagination, unlocking possibilities beyond our current grasp. In this article, we delve into the creative potential of 6G technology, painting a picture of what the future might hold.  With 6G, the paradigm of connectivity transcends mere data transfer. The technology embraces the convergence of our senses with augmented reality, virtual reality, and haptic feedback, creating an immersive symphony of experiences. Imagine walking through an ordinary street while donning your 6G-enabled augmented reality glasses, and suddenly, the cityscape transforms into a fantastical realm, interweaving the digital and physical worlds seamlessly. The boundaries between reality and imagination blur as you feel the virtual breeze and hear the echoes of distant worlds through your 6G-connected earbuds. This symphony of senses marks the dawn of a new era in human experience.  6G’s unparalleled speed and capacity lay the foundation for the rise of the “Sentient World.” With its high bandwidth, 6G networks can facilitate the instantaneous exchange of vast volumes of data, enabling artificial intelligence and machine learning algorithms to achieve an unprecedented level of sophistication. This leads to the emergence of sentient systems capable of understanding, learning, and reasoning like never before. The Sentient World empowers AI to become genuine companions, fostering a symbiotic relationship between humans and machines. As AI collaborates with us to solve complex challenges, it opens up new vistas of human creativity and innovation.  The Internet of Senses becomes an integral part of the 6G landscape, where data transcends conventional boundaries to encompass the complete human experience. By extending beyond the traditional senses of sight and sound, the Internet of Senses adds taste, smell, and touch to the digital realm. A gastronomic enthusiast can indulge in a culinary adventure by remotely tasting exquisite delicacies, a botanist can smell the fragrance of a rare flower on the other side of the world, and a musician can feel the vibrations of a live concert through haptic suits connected via 6G. Such interconnectedness heralds an age where connection surpasses geographical constraints and embraces the realm of emotions and sensations.  6G sets the stage for the advent of quantum networking – a realm where data transmission occurs instantaneously and securely through quantum entanglement. This enigmatic phenomenon allows information to be transmitted faster than the speed of light, leading to near-instantaneous communication between devices across the globe. Quantum networking also marks the zenith of security, as any attempt to intercept or tamper with quantum data alters its state, thus revealing malicious intentions. This impregnable security lays the groundwork for a world free from cyber threats, ensuring the safety and integrity of information exchanges.  As we embark on the journey towards 6G, we are entering a transformative era that extends far beyond mere connectivity. The Ethereal World of Connectivity beckons us with a symphony of senses, sentient AI companions, and an Internet of Senses that blurs the lines between the real and the virtual. With the emergence of quantum networking, the enigmatic possibilities of 6G technology seem limitless, offering a glimpse into a future where technology enriches and elevates the human experience in ways we can only dream of today. Let us embrace this exciting evolution with an open mind, for the journey ahead is destined to redefine our understanding of connectivity and propel us into a realm of infinite possibilities.",
+      "date": "2025-03-09",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp",
+      "title": "The Future of Web Development: What’s Next?"
+    },
+    {
+      "content": "Data mining has evolved dramatically over the past decade, moving far beyond its traditional role of extracting patterns from static datasets into a dynamic, technology-driven field that plays a crucial role in modern business intelligence, healthcare, finance, marketing, and countless other industries. In today’s era of big data, the sheer volume, velocity, and variety of information generated every second requires more advanced techniques to process and analyze it effectively. Modern data mining is increasingly powered by cutting-edge technologies like machine learning, artificial intelligence (AI), and cloud computing, which enable organizations to uncover deeper insights, predict trends, and make smarter decisions faster than ever before. Machine learning algorithms are now at the heart of data mining, automating complex processes such as classification, clustering, anomaly detection, and predictive analysis, while continuously learning and improving over time. AI further enhances this by providing intelligent systems that can not only find hidden patterns in massive datasets but also interpret the context and make real-time decisions. Additionally, the integration of natural language processing (NLP) allows data mining tools to analyze unstructured data like social media posts, customer reviews, and audio transcripts, offering richer and more actionable insights. As privacy concerns and data security become more important, technologies like blockchain are also starting to influence data mining practices, ensuring transparency and trust in data transactions. Looking ahead, the future of data mining will be shaped by advancements in quantum computing, which promises to process exponentially larger datasets, and the continued rise of automated machine learning (AutoML) tools that make powerful data analysis accessible to non-experts. In this rapidly evolving landscape, businesses that embrace the future of data mining will gain a competitive edge, leveraging data not just as a resource but as a strategic asset for innovation and growth.",
+      "date": "2025-02-09",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741787298/gu9t19f5sjawijk97e6x.webp",
+      "title": "Exploring the Future of Data Mining in Modern Tech"
+    },
+    {
+      "content": "In today’s fast-paced digital world, machine learning has emerged as a transformative tool in web development, revolutionizing how websites and applications interact with users by delivering personalized experiences. No longer confined to the realm of data scientists, machine learning is now accessible to web developers who aim to create smarter, user-centric platforms that adapt in real time to individual preferences. By leveraging user data such as browsing history, clicks, and behavior patterns, developers can implement intelligent recommendation systems that suggest products, content, or services tailored to each visitor, significantly increasing user engagement, satisfaction, and conversion rates. Beyond recommendations, machine learning enhances search functionalities through natural language processing, enabling smarter, context-aware search results and even voice or image-based queries. Additionally, AI-powered chatbots and virtual assistants, trained through machine learning, provide instant customer support, guide users through complex workflows, and offer personalized suggestions, all while continuously improving their interactions over time. Developers can also harness machine learning to dynamically deliver personalized content, adjusting banners, layouts, and even pricing based on user demographics or regional preferences. Tools like TensorFlow.js, Microsoft Azure Cognitive Services, and Google Cloud AI make integrating machine learning features more accessible, allowing developers to deploy sophisticated AI solutions without needing deep expertise in data science. As users increasingly expect websites to anticipate their needs and offer tailored experiences, machine learning has become a game-changer in web development, enabling the creation of highly engaging, intuitive, and efficient web applications that keep users coming back for more.",
+      "date": "2025-01-10",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741786070/upc9ybywpwnybxi3ekee.webp",
+      "title": "Machine Learning in Web Development: A Game-Changer for Personalized Experiences"
+    },
+    {
+      "content": "While blockchain technology initially gained widespread attention as the backbone of cryptocurrencies like Bitcoin and Ethereum, its true potential extends far beyond the realm of digital currencies, offering innovative solutions across a range of industries. At its core, blockchain is a decentralized, secure, and transparent digital ledger that allows data to be recorded in an immutable and tamper-proof way, making it ideal for use cases that require trust, security, and accountability. In supply chain management, blockchain enhances transparency and traceability by providing real-time visibility into the movement of goods, ensuring authenticity, reducing fraud, and improving efficiency from production to delivery. Major industries like agriculture, pharmaceuticals, and luxury goods are already leveraging blockchain to verify product origins and guarantee ethical sourcing. In healthcare, blockchain addresses critical challenges such as patient data security, interoperability, and privacy by creating secure and decentralized medical records systems that give patients control over their health data while enabling seamless access to authorized healthcare providers. Moreover, blockchain plays a pivotal role in digital identity management by offering individuals a way to maintain secure, verifiable digital identities without relying on centralized authorities—empowering users with greater control over their personal information and reducing the risk of identity theft and fraud. Beyond these areas, blockchain is also transforming sectors like real estate, voting systems, intellectual property, and energy trading, where its ability to enable smart contracts and decentralized applications (dApps) automates complex processes, reduces intermediaries, and fosters trustless transactions. As more organizations and governments explore the versatility of blockchain, its adoption is set to grow exponentially, redefining how data is managed, shared, and secured in the digital age.",
+      "date": "2025-03-25",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741837635/mbrvyvh3pqyo3ieabs7q.webp",
+      "title": "Blockchain Beyond Crypto: Real-World Applications"
+    },
+    {
+      "content": "Next.js has rapidly established itself as one of the most powerful and versatile frameworks for building scalable, high-performance web applications, offering developers a seamless blend of flexibility, speed, and modern best practices. Built on top of React, Next.js extends the capabilities of traditional single-page applications by introducing features like server-side rendering (SSR), static site generation (SSG), and incremental static regeneration (ISR), allowing developers to optimize both performance and SEO with ease. Server-side rendering ensures that pages are pre-rendered on the server at request time, delivering fully-formed HTML to the browser, which improves page load times and enhances search engine visibility—critical for content-heavy sites and e-commerce platforms. Static site generation, on the other hand, allows developers to pre-render pages at build time, resulting in blazing-fast load speeds and reduced server load, making it perfect for blogs, marketing sites, and documentation portals. Additionally, the introduction of incremental static regeneration allows developers to update static content without rebuilding the entire site, offering the best of both static and dynamic worlds. Next.js also simplifies API development by providing built-in API routes, enabling developers to create backend endpoints within the same project—eliminating the need for a separate server and streamlining the development process. With built-in image optimization, internationalization support, and out-of-the-box TypeScript integration, Next.js empowers teams to build scalable applications that deliver exceptional user experiences across different devices and regions. Whether you're creating a small personal portfolio or an enterprise-level application handling millions of users, Next.js provides the tools and architecture needed to scale efficiently while maintaining top-tier performance and maintainability. As the web ecosystem continues to evolve, Next.js stands out as a future-proof framework that simplifies complex development workflows and accelerates time-to-market for modern web applications.",
+      "date": "2025-02-18",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741837002/pl8xjsic5xb4ebbuxm0l.webp",
+      "title": "The Power of Next.js in Building Scalable Web Applications"
+    },
+    {
+      "content": "As blockchain technology continues to gain widespread adoption across industries such as finance, healthcare, supply chain, and digital identity management, the importance of ensuring its security has become more critical than ever. While blockchain itself offers inherent security features like decentralization, immutability, and consensus mechanisms, it is not immune to sophisticated cyber threats, including 51% attacks, Sybil attacks, smart contract vulnerabilities, and fraudulent transactions. This is where artificial intelligence (AI) and machine learning (ML) come into play, acting as powerful allies in strengthening blockchain security and resilience. AI-driven systems can proactively monitor blockchain networks in real time, analyzing vast amounts of transactional data to detect anomalies, identify suspicious activities, and predict potential security breaches before they occur. Machine learning algorithms, through continuous learning, enhance fraud detection by recognizing complex patterns that would be impossible for traditional systems to catch, thereby minimizing the risk of malicious actors exploiting vulnerabilities. In addition to transaction verification and anomaly detection, AI is revolutionizing smart contract auditing by automatically reviewing code to uncover flaws and potential exploits that could compromise the integrity of decentralized applications (dApps). Moreover, AI-powered predictive analytics enable blockchain platforms to assess risk factors, optimize consensus algorithms, and enhance node security by intelligently allocating resources and identifying potential weak points in the network. As privacy concerns grow, AI can also contribute to advanced encryption techniques and privacy-preserving protocols such as zero-knowledge proofs, ensuring confidential data remains protected without sacrificing transparency. The synergy between AI and blockchain is laying the foundation for more secure, scalable, and trustworthy distributed ledger systems, allowing organizations and users to fully realize the potential of blockchain technology in a world where cyber threats are constantly evolving.",
+      "date": "2025-02-27",
+      "image": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741837929/pnhckd4k4sgg9nppj3z0.webp",
+      "title": "The Role of AI in Enhancing Blockchain Security"
+    }
+  ],
+  "blogs": [
+    null,
+    {
+      "excerpt": "Exploring 6G technology's potential to blur physical and digital boundaries, enabling hyper-connectivity, quantum networking, and immersive experiences.",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp",
+      "title": "6G: Unlocking the Future of Connectivity and Beyond"
+    },
+    {
+      "excerpt": "Machine learning and AI are revolutionizing data mining, transforming big data analysis and revealing hidden patterns.",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp",
+      "title": "The Future of Data Mining in Tech"
+    },
+    {
+      "excerpt": "Discover how machine learning boosts user experiences with smart recommendations and personalized content.",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741786070/upc9ybywpwnybxi3ekee.webp",
+      "title": "Machine Learning in Web Development"
+    },
+    {
+      "excerpt": "Explore real-world blockchain applications in supply chain, healthcare, and digital identity",
+      "title": "Blockchain Beyond Crypto"
+    },
+    {
+      "excerpt": "Discover how Next.js enables scalable, high-performance web apps with server-side rendering, static generation, and API routes.",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741837002/pl8xjsic5xb4ebbuxm0l.webp",
+      "title": "The Power of Next.js"
+    },
+    {
+      "excerpt": "Explore how AI enhances blockchain security by detecting vulnerabilities and improving transaction verification.",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741837929/pnhckd4k4sgg9nppj3z0.webp",
+      "title": "AI’s Role in Blockchain Security"
+    }
+  ],
+  "projectparallax": [
+    {
+      "id": 1,
+      "link": "https://lahiru911-personal-portfolio.netlify.app/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/dzhthnrh56wcevjjljag.webp",
+      "title": "Personal Portfolio 2024"
+    },
+    {
+      "id": 2,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741753286/srgdzgjhvuffrzjhzmse.webp",
+      "title": "Royal Furniture"
+    },
+    {
+      "id": 3,
+      "link": "https://rs.residuesolution.xyz/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756543/d4ic386crg4uy1qpbk8k.webp",
+      "title": "Residue Solutions"
+    },
+    {
+      "id": 4,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752802/cn08tux8fhyykspfua88.webp",
+      "title": "GroceryMate"
+    },
+    {
+      "id": 5,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741763198/tlkpq7qtfjqkefps6ztt.webp",
+      "title": "Customer Data Collector"
+    },
+    {
+      "id": 6,
+      "link": "https://lahiru911-personal-portfolio.netlify.app/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/tfzf0g6wqcanvjjyubtv.webp",
+      "title": "Personal Portfolio 2024"
+    },
+    {
+      "id": 7,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/qz9fn9w43uzev2iv9c5g.webp",
+      "title": "GroceryMate"
+    },
+    {
+      "id": 8,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741763198/tlkpq7qtfjqkefps6ztt.webp",
+      "title": "Customer Data Collector"
+    },
+    {
+      "id": 9,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741757304/wphpjhnnre7kqj6bvxpb.webp",
+      "title": "Eventify"
+    },
+    {
+      "id": 10,
+      "link": "https://rs.residuesolution.xyz/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756614/nnuueow1cfjdxanolubn.webp",
+      "title": "Residue Solutions"
+    },
+    {
+      "id": 11,
+      "link": "https://rs.residuesolution.xyz/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756613/jnojxw31d5yyb3nirgpq.webp",
+      "title": "Residue Solutions"
+    },
+    {
+      "id": 12,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741754076/rftitzre5cxvgivdxykj.webp",
+      "title": "Royal Furniture"
+    },
+    {
+      "id": 13,
+      "link": "https://rs.residuesolution.xyz/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756615/ykwkctwbtru5xn0hriwa.webp",
+      "title": "Residue Solutions"
+    },
+    {
+      "id": 14,
+      "link": "",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/u4yi2fsbq1oaql69tkph.webp",
+      "title": "GroceryMate"
+    },
+    {
+      "id": 15,
+      "link": "https://rs.residuesolution.xyz/",
+      "thumbnail": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756613/jnojxw31d5yyb3nirgpq.webp",
+      "title": "Residue Solutions"
+    }
+  ],
+  "projects": {
+    "project1": {
+      "deployLink": "https://link-to-deployed-project.com",
+      "detailedProjectDescription": "Smart Grocery Delivery System is designed to automate and streamline the process of ordering groceries online. It provides users with an intuitive interface to browse, search, and order products while offering backend support for delivery management and order tracking.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752802/m1csa3thdxh0oqiutkoe.webp",
+      "projectFeatures": [
+        "User-friendly interface for browsing and searching groceries.",
+        "Real-time order tracking and status updates.",
+        "Automated delivery management for faster deliveries.",
+        "Secure payment gateway integration.",
+        "Admin dashboard for inventory and user management."
+      ],
+      "projectTitle": "GroceryMate",
+      "repositoryLinks": {
+        "backend": "https://github.com/username/grocerymate-backend",
+        "frontend": "https://github.com/username/grocerymate-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/qz9fn9w43uzev2iv9c5g.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/njk0qwbpdpe5xr9nfdza.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/u4yi2fsbq1oaql69tkph.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741752801/ioyllbrt9otbrc9oufz8.webp"
+      ],
+      "shortSummary": "This is a brief summary of Smart Grocery Delivery System.",
+      "techStack": [
+        "React",
+        "Node.js",
+        "Express"
+      ]
+    },
+    "project2": {
+      "deployLink": "https://eventify-deployed-link.com",
+      "detailedProjectDescription": "Eventify is a platform where users can create, manage, and attend events. It simplifies event management with a clean interface and powerful backend support for event details, RSVPs, and notifications.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741753286/srgdzgjhvuffrzjhzmse.webp",
+      "projectFeatures": [
+        "Event creation with easy-to-fill details.",
+        "RSVP functionality for event invitations.",
+        "Real-time notifications for event updates.",
+        "Responsive design for mobile and desktop.",
+        "Admin panel for managing events and users."
+      ],
+      "projectTitle": "Royal Furniture",
+      "repositoryLinks": {
+        "backend": "https://github.com/username/eventify-backend",
+        "frontend": "https://github.com/username/eventify-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741754089/ybghibfk6ytr6kc0cazy.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741754088/zd9ygyx2grpqeehddkji.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741754076/rftitzre5cxvgivdxykj.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741754076/z4pnhofcy4edqa1a9bzy.webp"
+      ],
+      "shortSummary": "Eventify allows users to create, manage, and join events easily.",
+      "techStack": [
+        "Next.js",
+        "MongoDB",
+        "Express"
+      ]
+    },
+    "project3": {
+      "deployLink": "https://link-to-deployed-portfolio.com",
+      "detailedProjectDescription": "This portfolio showcases personal projects, career milestones, and technical expertise using a modern, clean design. It includes sections for skills, education, and a blog to keep track of professional updates.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741763325/y3vseuy0sfpufoidweqf.webp",
+      "projectFeatures": [
+        "Modern design with responsive layout.",
+        "Project showcase with detailed descriptions.",
+        "Career milestones timeline.",
+        "Blog section integrated with Firebase.",
+        "Contact form for easy reach."
+      ],
+      "projectTitle": "Customer Data Collector",
+      "repositoryLinks": {
+        "frontend": "https://github.com/username/portfolio-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741763002/dmi4zungel5tuqvzkxeg.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741763198/tlkpq7qtfjqkefps6ztt.webp"
+      ],
+      "shortSummary": "A personal portfolio to showcase skills, projects, and experience.",
+      "techStack": [
+        "Next.js",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    "project4": {
+      "deployLink": "https://link-to-deployed-portfolio.com",
+      "detailedProjectDescription": "This portfolio showcases personal projects, career milestones, and technical expertise using a modern, clean design. It includes sections for skills, education, and a blog to keep track of professional updates.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756543/d4ic386crg4uy1qpbk8k.webp",
+      "projectFeatures": [
+        "Modern design with responsive layout.",
+        "Project showcase with detailed descriptions.",
+        "Career milestones timeline.",
+        "Blog section integrated with Firebase.",
+        "Contact form for easy reach."
+      ],
+      "projectTitle": "Residue Solutions 2.0",
+      "repositoryLinks": {
+        "backend": "https://github.com/username/portfolio-backend",
+        "frontend": "https://github.com/username/portfolio-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756614/nnuueow1cfjdxanolubn.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756613/jnojxw31d5yyb3nirgpq.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756615/ykwkctwbtru5xn0hriwa.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756615/kyalwz4ztz7rvit4zsgy.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756612/mqxjcfjuo9ibhyluwltg.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741756614/yu8ihzvglun0znjdm3ch.webp"
+      ],
+      "shortSummary": "A personal portfolio to showcase skills, projects, and experience.",
+      "techStack": [
+        "Next.js",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    "project5": {
+      "deployLink": "https://link-to-deployed-portfolio.com",
+      "detailedProjectDescription": "This portfolio showcases personal projects, career milestones, and technical expertise using a modern, clean design. It includes sections for skills, education, and a blog to keep track of professional updates.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741757304/wphpjhnnre7kqj6bvxpb.webp",
+      "projectFeatures": [
+        "Modern design with responsive layout.",
+        "Project showcase with detailed descriptions.",
+        "Career milestones timeline.",
+        "Blog section integrated with Firebase.",
+        "Contact form for easy reach."
+      ],
+      "projectTitle": "Eventify",
+      "repositoryLinks": {
+        "frontend": "https://github.com/username/portfolio-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741529237/cmwudfp22nmjvar1xldz.webp"
+      ],
+      "shortSummary": "A personal portfolio to showcase skills, projects, and experience.",
+      "techStack": [
+        "Next.js",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    "project6": {
+      "deployLink": "https://link-to-deployed-portfolio.com",
+      "detailedProjectDescription": "This portfolio showcases personal projects, career milestones, and technical expertise using a modern, clean design. It includes sections for skills, education, and a blog to keep track of professional updates.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/dzhthnrh56wcevjjljag.webp",
+      "projectFeatures": [
+        "Modern design with responsive layout.",
+        "Project showcase with detailed descriptions.",
+        "Career milestones timeline.",
+        "Blog section integrated with Firebase.",
+        "Contact form for easy reach."
+      ],
+      "projectTitle": "Lahiru Portfolio v1",
+      "repositoryLinks": {
+        "frontend": "https://github.com/username/portfolio-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/tfzf0g6wqcanvjjyubtv.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/mcw8wxzitzpgw8iticdg.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706924/zlkztmftycgsvjhtddkz.webp"
+      ],
+      "shortSummary": "A personal portfolio to showcase skills, projects, and experience.",
+      "techStack": [
+        "Next.js",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    "project7": {
+      "deployLink": "https://link-to-deployed-portfolio.com",
+      "detailedProjectDescription": "This portfolio showcases personal projects, career milestones, and technical expertise using a modern, clean design. It includes sections for skills, education, and a blog to keep track of professional updates.",
+      "projectCoverImage": "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/dzhthnrh56wcevjjljag.webp",
+      "projectFeatures": [
+        "Modern design with responsive layout.",
+        "Project showcase with detailed descriptions.",
+        "Career milestones timeline.",
+        "Blog section integrated with Firebase.",
+        "Contact form for easy reach."
+      ],
+      "projectTitle": "Lahiru Portfolio v1",
+      "repositoryLinks": {
+        "frontend": "https://github.com/username/portfolio-frontend"
+      },
+      "screenshots": [
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/tfzf0g6wqcanvjjyubtv.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706928/mcw8wxzitzpgw8iticdg.webp",
+        "https://res.cloudinary.com/dj3t05pln/image/upload/v1741706924/zlkztmftycgsvjhtddkz.webp"
+      ],
+      "shortSummary": "A personal portfolio to showcase skills, projects, and experience.",
+      "techStack": [
+        "Next.js",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  }
+}

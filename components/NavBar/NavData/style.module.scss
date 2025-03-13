@@ -1,0 +1,181 @@
+// .nav {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: space-between;
+//   padding: 40px 40px 50px 40px;
+//   height: 100%;
+//   box-sizing: border-box;
+//   .body {
+//     display: flex;
+//     gap: 10px;
+//     flex-direction: column;
+//     .linkContainer {
+//       perspective: 120px;
+//       perspective-origin: bottom;
+//     }
+//     a {
+//       text-decoration: none;
+//       color: black;
+//       font-size: 36px;
+//     }
+//   }
+//   .footer {
+//     display: flex;
+//     flex-wrap: wrap;
+//     a {
+//       width: 50%;
+//       margin-top: 5px;
+//     }
+//   }
+// }
+
+// /* Responsive Design: */
+// @media (max-width: 768px) {
+//   .nav {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-between;
+//     padding: 40px 20px 20px 25px;
+//     height: 100%;
+//     box-sizing: border-box;
+//     .body {
+//       display: flex;
+//       gap: 5px;
+//       flex-direction: column;
+//       .linkContainer {
+//         perspective: 120px;
+//         perspective-origin: bottom;
+//       }
+//       a {
+//         text-decoration: none;
+//         color: black;
+//         font-size: 25px;
+//       }
+//     }
+//     .footer {
+//       display: flex;
+//       flex-wrap: wrap;
+//       a {
+//         width: 50%;
+//         margin-top: 5px;
+//       }
+//     }
+//   }
+// }
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 40px 40px 50px 40px;
+  height: 100%;
+  box-sizing: border-box;
+
+  .body {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+
+    .linkContainer {
+      perspective: 120px;
+      perspective-origin: bottom;
+    }
+
+    a {
+      text-decoration: none; /* Removes underline */
+      color: black; /* Set the link color to black */
+      font-size: 30px;
+
+      /* Remove blue color on hover and active */
+      &:hover,
+      &:focus,
+      &:active {
+        color: #ffffff; /* Prevent color change on hover */
+        text-decoration: none; /* Ensure no underline on hover */
+      }
+    }
+  }
+
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+
+    a {
+      width: 50%;
+      margin-top: 15px;
+      font-size: 18px;
+      text-decoration: none; /* Ensure footer links have no underline */
+      color: black; /* Set footer links to black */
+
+      /* Remove blue color on hover and active in footer */
+      &:hover,
+      &:focus,
+      &:active {
+        color: #0081fb; /* Prevent color change on hover */
+        text-decoration: none; /* Ensure no underline on hover */
+      }
+    }
+  }
+}
+
+
+
+
+/* Responsive Design: */
+@media (max-width: 768px) {
+  .nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px 20px 20px 25px;
+    height: 100%;
+    box-sizing: border-box;
+
+    .body {
+      display: flex;
+      gap: 18px;
+      flex-direction: column;
+
+      .linkContainer {
+        perspective: 120px;
+        perspective-origin: bottom;
+      }
+
+      a {
+        text-decoration: none; /* Ensures no underline */
+        color: black; /* Ensures black color for the links */
+        font-size: 21px;
+
+        /* Remove hover effects */
+        &:hover,
+        &:focus,
+        &:active {
+          color: #ffffff; /* Prevent color change on hover */
+          text-decoration: none; /* Ensure no underline on hover */
+        }
+      }
+    }
+
+    .footer {
+      display: flex;
+      flex-wrap: wrap;
+
+      a {
+        width: 50%;
+        margin-top: 15px;
+        font-size: 15px;
+        text-decoration: none; /* Ensure footer links have no underline */
+        color: black; /* Set footer links to black */
+
+        /* Remove hover effects in footer */
+        &:hover,
+        &:focus,
+        &:active {
+          color: #0081fb; /* Prevent color change on hover */
+          text-decoration: none; /* Ensure no underline on hover */
+        }
+      }
+    }
+  }
+}
