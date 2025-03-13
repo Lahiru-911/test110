@@ -4,9 +4,10 @@ import dynamic from "next/dynamic";
 import Head from "next/head";
 import { useEffect } from "react";
 
+
 const ProjectParallax = dynamic(
   () =>
-    import("@/components/ProjectParallax/projectparallax").then(
+    import("../../components/ProjectParallax/ProjectParallax").then(
       (mod) => mod.ProjectParallax
     ),
   {

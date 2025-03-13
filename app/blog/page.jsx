@@ -1,5 +1,5 @@
 "use client"
-import { BlogCard } from "@/components/BlogCard/BlogCard";
+import { BlogCard } from "../../components/BlogCard/BlogCard";
 import { useEffect } from "react";
 import React from "react";
 

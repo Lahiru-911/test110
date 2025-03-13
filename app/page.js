@@ -4,12 +4,12 @@ import React, { useState, useEffect } from "react";
 import { AnimatePresence } from "framer-motion";
 
 // Components
-import Preloader from "@/components/preloader/Preloader";
-import HeroSection from "@/components/HeroSection/page";
-import SocialMediaIcons from "@/components/GlobeAnimation/SocialMediaIcons";
-import PerspectiveText from "@/components/PerspectiveText/PerspectiveText";
-import Accordion from "@/components/Accordion/Accordion";
-import Textparallax from "@/components/Textparallax/page";
+import Preloader from "../components/preloader/Preloader";
+import HeroSection from "../components/HeroSection/page";
+import SocialMediaIcons from "../components/GlobeAnimation/SocialMediaIcons";
+import PerspectiveText from "../components/PerspectiveText/PerspectiveText";
+import Accordion from "../components/Accordion/Accordion";
+import Textparallax from "../components/Textparallax/page";
 
 const Home = () => {
   const [isLoading, setIsLoading] = useState(true);

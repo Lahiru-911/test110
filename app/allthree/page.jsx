@@ -1,6 +1,6 @@
 "use client";
-import { Skill } from "@/components/HeroSkill/Skill";
-import { TimelineExp } from "@/components/Timeline/TimelineExp";
+import { Skill } from "../../components/HeroSkill/Skill";
+import { TimelineExp } from "../../components/Timeline/TimelineExp";
 import { useEffect } from "react";
 import React from "react";
 

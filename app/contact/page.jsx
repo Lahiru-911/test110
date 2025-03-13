@@ -1,5 +1,5 @@
 "use client";
-import { WavyBackground } from "@/components/WavyBackground/WavyBackground";
+import { WavyBackground } from "../../components/WavyBackground/WavyBackground";
 import { useState, useEffect } from "react";
 import Image from "next/image";
 
