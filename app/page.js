@@ -60,7 +60,7 @@ const Home = () => {
             <div className="md:pt-10 m-4 md:m-6 lg:m-7 xl:m-8">
               <div className="my-1 md:my-0">
                 <h1 className="w-full md:w-11/12 lg:w-10/12 xl:w-9/12 text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-4xl dm-sans-bold font-semibold">
-                  Who I amz
+                  Who I am
                 </h1>
 
                 <p className="text-justify my-1 md:my-3 lg:my-4 w-5/6 lg:w-10/12 xl:w-3/4 text-[#808080] text-sm sm:text-base md:text-lg lg:text-lg xl:text-xl dm-sans-regular">
